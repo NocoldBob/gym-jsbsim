@@ -122,7 +122,7 @@ Gym-JSBSim's environments have a continuous state and action space. The state is
  ```
 ## Other Materials
 
-* Gym-JSBSim was created for my MSc dissertation, which can be accessed [here](https://drive.google.com/open?id=1jPLG-OYcPiffh4ZAWW1N1__4l68jh-G_). 
+* Gym-JSBSim was created for my MSc dissertation, which can be accessed [here](https://researchportal.bath.ac.uk/en/publications/autonomous-control-of-simulated-fixed-wing-aircraft-using-deep-re). 
 * A video montage of trained agent behaviour is available [here](https://drive.google.com/open?id=1wEq4Fg31Nf_6jb6bLLO24gt15GaZ-wbv).
 * jrjbertram has a fork [here](https://github.com/jrjbertram/jsbsim_rl) with Docker and openAI Baselines integration
 
